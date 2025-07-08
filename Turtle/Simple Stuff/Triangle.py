@@ -1,7 +1,7 @@
 #File name: Triangle.py
 #Author: Sophia A
 #Date created: March 19, 2025
-#Description: Drawing of a triangle
+#Description: This is a triangle
 
 import turtle
 triangle = turtle.Turtle()
