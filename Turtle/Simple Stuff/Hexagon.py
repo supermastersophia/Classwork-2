@@ -1,7 +1,7 @@
 #File name: Hexagon.py
 #Author: Sophia A
 #Date created: March 20, 2025
-#Description: Drawing of a hexagon
+#Description: This is a hexagon
 
 import turtle
 hexagon = turtle.Turtle()
