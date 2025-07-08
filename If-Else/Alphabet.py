@@ -1,7 +1,7 @@
-#File name: Alphabet.py
-#Author: Sophia A
-#Date created: March 11, 2025
-#Description: Checks if the letter is a vowel or consanant.
+# File name: Alphabet.py
+# Author: Sophia A
+# Date created: March 11, 2025
+# Description: Checks if the letter is a vowel or consanant.
 
 letter = input("Enter a random letter: ")
 print(" ")

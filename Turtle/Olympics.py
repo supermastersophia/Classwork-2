@@ -1,9 +1,10 @@
-#File name: Olympics.py
-#Author: Sophia A
-#Date created: March 25, 2025
-#Description: This is the Olympics logo
+# File name: Olympics.py
+# Author: Sophia A
+# Date created: March 25, 2025
+# Description: This is the Olympics logo
 
 import turtle
+
 square = turtle.Turtle()
 
 square.color("#317cf7")

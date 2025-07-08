@@ -1,12 +1,12 @@
-#File name: Boat.py
-#Author: Sophia A
-#Date created: April 1, 2025
-#Description: This is a boat 
+# File name: Boat.py
+# Author: Sophia A
+# Date created: April 1, 2025
+# Description: This is a boat
 
 import turtle
 
 square = turtle.Turtle()
-square.goto(-150,-100)
+square.goto(-150, -100)
 square.color("#70baec")
 square.begin_fill()
 square.forward(325)
@@ -19,7 +19,7 @@ square.forward(200)
 square.left(90)
 square.end_fill()
 
-square.goto(-150,-65)
+square.goto(-150, -65)
 square.color("#1f1ff6")
 square.begin_fill()
 square.forward(325)
@@ -32,7 +32,7 @@ square.forward(35)
 square.end_fill()
 
 square.penup()
-square.goto(-75,-35)
+square.goto(-75, -35)
 square.color("#7a3702")
 square.begin_fill()
 square.right(90)
@@ -72,7 +72,7 @@ square.pendown()
 square.forward(75)
 square.penup()
 
-square.goto(-125,65)
+square.goto(-125, 65)
 square.color("#ffff00")
 square.begin_fill()
 square.circle(20)
