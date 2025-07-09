@@ -1,7 +1,7 @@
-# File name: Boat.py
-# Author: Sophia A
-# Date created: April 1, 2025
-# Description: This is a boat
+#File name: Boat.py
+#Author: Sophia A
+#Date created: April 1, 2025
+#Description: This is a boat
 
 import turtle
 
