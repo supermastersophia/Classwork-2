@@ -1,7 +1,7 @@
-# File name: Sum.py
-# Author: Sophia
-# Date created: April 15, 2025
-# Description: Sum of random numbers
+#File name: Sum.py
+#Author: Sophia
+#Date created: April 15, 2025
+#Description: Sum of random numbers
 
 number = (int)(input("Enter a number: "))
 total = 0
