@@ -1,10 +1,9 @@
-# File name: Pentagon.py
-# Author: Sophia A
-# Date created: March 19, 2025
-# Description: This is a pentagon
+#File name: Pentagon.py
+#Author: Sophia A
+#Date created: March 19, 2025
+#Description: This is a pentagon
 
 import turtle
-
 pentagon = turtle.Turtle()
 
 pentagon.pencolor("#12ff0b")
