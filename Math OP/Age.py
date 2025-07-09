@@ -1,7 +1,7 @@
-# File name: Age.py
-# Author: Sophia A
-# Date created: Feburary 4, 2025
-# Description: This is my age in weeks
+#File name: Age.py
+#Author: Sophia A
+#Date created: Feburary 4, 2025
+#Description: This is my age in weeks
 
 question = int(input("Enter your current age: "))
 print(" ")
