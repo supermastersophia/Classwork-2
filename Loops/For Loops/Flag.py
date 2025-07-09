@@ -4,7 +4,6 @@
 #Description: Italy Flag with for loops
 
 import turtle
-
 square = turtle.Turtle()
 
 square.color("#008000")
