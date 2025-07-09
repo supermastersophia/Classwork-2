@@ -1,7 +1,7 @@
-# File name: Circle.py
-# Author: Sophia A
-# Date created: March 14, 2025
-# Description: Area and circumference
+#File name: Circle.py
+#Author: Sophia A
+#Date created: March 14, 2025
+#Description: Area and circumference
 
 print("Would you like to calculate the circumference or area?")
 print(" ")
