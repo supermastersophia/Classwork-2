@@ -1,7 +1,7 @@
-# File name: Weight.py
-# Author: Sophia A
-# Date created: Feburary 4, 2025
-# Description: This is your weight on the moon
+#File name: Weight.py
+#Author: Sophia A
+#Date created: Feburary 4, 2025
+#Description: This is your weight on the moon
 
 print("This is your weight on the moon:")
 print(" ")
