@@ -1,7 +1,7 @@
-# File name: Flag.py
-# Author: Sophia A
-# Date created: May 9, 2025
-# Description: Italy Flag with for loops
+#File name: Flag.py
+#Author: Sophia A
+#Date created: May 9, 2025
+#Description: Italy Flag with for loops
 
 import turtle
 
