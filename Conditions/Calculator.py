@@ -1,7 +1,7 @@
-# File name: Calculator.py
-# Author: Sophia A
-# Date created: March 14, 2025
-# Description: This is a calculator
+#File name: Calculator.py
+#Author: Sophia A
+#Date created: March 14, 2025
+#Description: This is a calculator
 
 print("1. Addition")
 print("2. Subtraction")
