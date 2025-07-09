@@ -1,10 +1,9 @@
-# File name: Hexagon.py
-# Author: Sophia A
-# Date created: March 20, 2025
-# Description: This is a hexagon
+#File name: Hexagon.py
+#Author: Sophia A
+#Date created: March 20, 2025
+#Description: This is a hexagon
 
 import turtle
-
 hexagon = turtle.Turtle()
 
 hexagon.pencolor("#2af3f4")
