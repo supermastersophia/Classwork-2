@@ -1,10 +1,9 @@
-# File name: Shapes.py
-# Author: Sophia A
-# Date created: April 11, 2025
-# Description: 3 random shapes with color
+#File name: Shapes.py
+#Author: Sophia A
+#Date created: April 11, 2025
+#Description: 3 random shapes with color
 
 import turtle
-
 square = turtle.Turtle()
 
 square.color("#ffffff")
@@ -40,12 +39,11 @@ while i <= 6:
     i = i + 1
 square.penup()
 square.end_fill()
-
 square.goto(-27, -25)
+
 square.color("Black")
 square.write("pentagon", font=("Arial", 12, "Bold"))
 square.penup()
-
 square.goto(-140, -25)
 square.write("triangle", font=("Arial", 12, "Bold"))
 square.penup()
