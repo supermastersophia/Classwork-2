@@ -1,10 +1,9 @@
-# File name: Square.py
-# Author: Sophia A
-# Date created: March 19, 2025
-# Description: This is a square
+#File name: Square.py
+#Author: Sophia A
+#Date created: March 19, 2025
+#Description: This is a square
 
 import turtle
-
 square = turtle.Turtle()
 
 square.pencolor("Orange")
