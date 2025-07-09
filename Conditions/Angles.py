@@ -1,7 +1,7 @@
-# File name: Angles.py
-# Author: Sophia A
-# Date created: March 11, 2025
-# Description: Classifies angles
+#File name: Angles.py
+#Author: Sophia A
+#Date created: March 11, 2025
+#Description: Classifies angles
 
 angle = (int)(input("Enter a number between 0 and 360: "))
 print(" ")
